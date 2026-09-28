@@ -1,0 +1,5 @@
+name: genpark-r-tree-spatial-indexing-bounding-box-skill
+description: 2D R-Tree spatial indexing with Minimum Bounding Boxes (MBR) and spatial range intersection queries
+version: 1.0.0
+runtime: python
+entrypoint: mcp_server.py
